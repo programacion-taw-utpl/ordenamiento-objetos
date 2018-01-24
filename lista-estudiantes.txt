@@ -1,0 +1,6 @@
+Sistemas,Loja,Universidad Técnica Particular de Loja,190,1700,50
+Electrónica,Quito,Universidad Nacional de Loja,200,1000,40
+Química,Loja,Universidad Técnica Particular de Loja,191,1600,30
+Físico Matemáticas,Ibarra,Universidad Técnica de Ibarra,150,2000,20
+Administración,Machala,Universidad de Machala,290,1100,80
+Artes,Cuenca,Universidad Técnica de Cuenca,230,1800,30
